@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'e2eDemoUsingProtractor';
+  welcomenote= 'Welcome to E2E demo protractor testing'
 }
